@@ -50,6 +50,19 @@ https://play.google.com/store/apps/details?id=com.arrowhitech.furiousroad
 https://drive.google.com/file/d/0B4C8QW7wEpG_TmZwTnJzVjBCWW8/view
 https://play.google.com/store/apps/details?id=train.vs.carbattlespeed
 
+https://drive.google.com/open?id=0By4OWtCtmrend3JPWjJOWVQ3T1U
+https://play.google.com/store/apps/details?id=com.trixonline.Trix
+https://itunes.apple.com/us/app/punching-buddy/id503965096?mt=8
+https://itunes.apple.com/my/app/elf-chase-rpg-endless-enemy-battle-run/id817026783?mt=8
+https://play.google.com/store/apps/details?id=com.foodcookingmania.letscook
+https://itunes.apple.com/ie/app/streaker-run/id519321043?mt=8
+https://drive.google.com/open?id=0By4OWtCtmrenLVVpcG9Ma3IyN2s
+
+Racing game
+https://play.google.com/store/apps/details?id=com.aistudio.realspeedasphalt
+https://www.apkmonk.com/app/com.aistudio.fastbikeracing/
+https://drive.google.com/open?id=0By4OWtCtmrenN1MzRWxpUGhsSkU
+
 Online multiplayer strike games
 https://play.google.com/store/apps/details?id=com.gt.test&hl=en
 https://itunes.apple.com/us/app/real-counter-strike-online-fps/id1197863891?mt=8
@@ -62,6 +75,7 @@ https://play.google.com/store/apps/details?id=com.Twservices.App4DMais&hl=en
 
 Match 3 games
 https://play.google.com/store/apps/details?id=com.MobileGeniuses.CandyMatching3&hl=en
+https://drive.google.com/open?id=0By4OWtCtmrenLU9lVk42SzFNLXc
 https://drive.google.com/open?id=0By4OWtCtmrenUHNTMm5OX1RyLUE
 https://drive.google.com/open?id=0By4OWtCtmrenYU5wRUZ1U0hHbXM
 https://drive.google.com/open?id=0By4OWtCtmrenanQtMnREb3ByYnM
