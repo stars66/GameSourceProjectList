@@ -1,10 +1,6 @@
 # GameSourceProjectList
 Hi All, I have a lot of game source projects.  Almost unity3d projects. If you are interested in these games, please contact me.
 
-email: islam.sherweda99@gmail.com
-
-skype: ska1227@163.com
-
 VR games
 https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
 
