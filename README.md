@@ -5,6 +5,10 @@ E-mail: islam.sherweda99@gmail.com
 
 skype : ska1227@163.com
 
+New games
+https://play.google.com/store/apps/details?id=com.mirugame.ground
+https://play.google.com/store/apps/details?id=com.dev.starprize
+
 VR games
 https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
 
@@ -15,6 +19,7 @@ https://itunes.apple.com/tw/app/hei-zhan-shenno-yong-zhe-xin/id864823769?mt=8
 
 MMORTS
 
+https://play.google.com/store/apps/details?id=com.innospark.dragonfriends
 https://play.google.com/store/apps/details?id=com.abc.AgeofKingdomsHD&hl=us
 https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publish
 https://itunes.apple.com/us/app/ageless-empire-nations-clash-battle/id830239327?mt=8
