@@ -8,13 +8,14 @@ skype : ska1227@163.com
 New games
 https://play.google.com/store/apps/details?id=com.mirugame.ground
 https://play.google.com/store/apps/details?id=com.dev.starprize
+https://play.google.com/store/apps/details?id=com.theescapechallenges.wyandotte
 
 VR games
 https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
 
 MMORPG
 
-https://play.google.com/store/apps/details?id=com.wot7.tw870sy&hl=zh_TW
+https://play.google.com/store/apps/details?id=com.ahzs.twgoogle
 https://itunes.apple.com/tw/app/hei-zhan-shenno-yong-zhe-xin/id864823769?mt=8
 
 MMORTS
