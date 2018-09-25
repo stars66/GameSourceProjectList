@@ -15,8 +15,7 @@ https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
 
 MMORPG
 
-https://play.google.com/store/apps/details?id=com.ahzs.twgoogle
-https://itunes.apple.com/tw/app/hei-zhan-shenno-yong-zhe-xin/id864823769?mt=8
+https://itunes.apple.com/tw/app/%E5%A4%A9%E5%8A%8D%E7%90%B4%E7%B7%A3-%E7%B9%81%E9%AB%94%E7%89%88-%E7%B7%A3%E4%BE%86%E5%B0%B1%E6%98%AF%E4%BD%A0/id1152308758?mt=8
 
 MMORTS
 
