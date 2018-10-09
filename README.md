@@ -28,9 +28,6 @@ https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publi
 
 Poker game
 https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en
-https://itunes.apple.com/vn/app/atmplus-game-b%C3%A0i-%C4%91%E1%BB%95i-th%C6%B0%E1%BB%9Fng/id1172744736?mt=8
-https://itunes.apple.com/cn/app/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B%E4%B9%8B%E5%A4%9C%E5%9B%BD%E9%99%85%E7%89%88-2017%E4%B8%8D%E7%8E%A9%E4%BC%9A%E5%90%8E%E6%82%94%E7%9A%84%E8%B6%85%E8%B5%9A%E6%A3%8B%E7%89%8C/id1173174571?mt=8
-https://itunes.apple.com/us/app/%E8%B5%8C%E7%A5%9E%E5%BE%B7%E5%B7%9E%E4%B9%8B%E5%A4%9C-%E9%87%91%E5%B8%81%E7%89%88-%E8%B6%85%E9%AB%98%E5%9B%9E%E6%8A%A5%E5%BF%85%E8%B5%A2%E5%BE%B7%E5%B7%9E/id1236651029?mt=8
 https://play.google.com/store/apps/details?id=com.cardking.dw_iap
 https://play.google.com/store/apps/details?id=com.trixonline.Trix
 https://itunes.apple.com/us/app/%D8%B7%D8%B1%D9%86%D9%8A%D8%A8/id902428862?mt=8
@@ -101,7 +98,6 @@ https://play.google.com/store/apps/details?id=com.flamingotouch.Chara
 https://play.google.com/store/apps/details?id=com.Twservices.App4DMais&hl=en
 
 Match 3 games
-https://play.google.com/store/apps/details?id=com.MobileGeniuses.CandyMatching3&hl=en
 https://drive.google.com/open?id=0By4OWtCtmrenLU9lVk42SzFNLXc
 https://drive.google.com/open?id=0By4OWtCtmrenUHNTMm5OX1RyLUE
 https://drive.google.com/open?id=0By4OWtCtmrenYU5wRUZ1U0hHbXM
