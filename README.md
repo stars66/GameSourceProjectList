@@ -9,6 +9,9 @@ New games
 https://play.google.com/store/apps/details?id=com.mirugame.ground
 https://play.google.com/store/apps/details?id=com.dev.starprize
 https://play.google.com/store/apps/details?id=com.theescapechallenges.wyandotte
+https://www.countdownthegame.com/
+https://itunes.apple.com/us/app/countdown-the-game/id1291851995
+https://play.google.com/store/apps/details?id=com.the4thleaf.countdownthegame
 
 VR games
 https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
@@ -22,9 +25,6 @@ MMORTS
 https://play.google.com/store/apps/details?id=com.innospark.dragonfriends
 https://play.google.com/store/apps/details?id=com.abc.AgeofKingdomsHD&hl=us
 https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publish
-https://itunes.apple.com/us/app/ageless-empire-nations-clash-battle/id830239327?mt=8
-https://itunes.apple.com/us/app/age-of-empire-dragon-knights-nation-battle/id718070891?mt=8
-https://itunes.apple.com/us/app/tiny-kingdom/id583262503?mt=8
 
 Poker game
 https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en
