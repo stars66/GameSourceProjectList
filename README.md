@@ -6,12 +6,13 @@ E-mail: stars66lius@gmail.com
 skype : ska1227@163.com
 
 New games
-https://play.google.com/store/apps/details?id=com.mirugame.ground
-https://play.google.com/store/apps/details?id=com.dev.starprize
-https://play.google.com/store/apps/details?id=com.theescapechallenges.wyandotte
 https://www.countdownthegame.com/
 https://itunes.apple.com/us/app/countdown-the-game/id1291851995
 https://play.google.com/store/apps/details?id=com.the4thleaf.countdownthegame
+https://www.apkmonk.com/app/com.mirugame.ground
+https://play.google.com/store/apps/details?id=com.dev.starprize
+https://itunes.apple.com/us/app/wyandotte-escape-challenges/id1370269952
+https://play.google.com/store/apps/details?id=com.theescapechallenges.wyandotte
 
 VR games
 https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
@@ -19,6 +20,7 @@ https://www.youtube.com/channel/UCYw55foFK0gTDATkqBYYoOw
 MMORPG
 
 https://itunes.apple.com/tw/app/%E5%A4%A9%E5%8A%8D%E7%90%B4%E7%B7%A3-%E7%B9%81%E9%AB%94%E7%89%88-%E7%B7%A3%E4%BE%86%E5%B0%B1%E6%98%AF%E4%BD%A0/id1152308758?mt=8
+https://play.google.com/store/apps/details?id=com.istargame.android.tccy
 
 MMORTS
 
@@ -33,7 +35,7 @@ https://itunes.apple.com/us/app/%D8%B7%D8%B1%D9%86%D9%8A%D8%A8/id902428862?mt=8
 
 AR game
 https://play.google.com/store/apps/details?id=com.maniaco.zombiewar360
-https://www.zombiewar360.com/
+https://www.youtube.com/channel/UCFcwX19R-bBdo6fypiLD8fQ
 https://drive.google.com/open?id=0By4OWtCtmrenM2VHTTBZcndab1k
 https://drive.google.com/open?id=0By4OWtCtmrend21OZzZITkdXbnc
 
