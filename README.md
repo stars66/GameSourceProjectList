@@ -1,11 +1,15 @@
 # GameSourceProjectList
 Hi All, I have a lot of game source projects.  Almost unity3d projects. If you are interested in these games, please contact me.
 
-E-mail: stars66lius@gmail.com
+E-mail: shiquhudong@gmail.com
 
 skype : ska1227@163.com
 
 New games
+https://www.otieya.com/
+https://itunes.apple.com/US/app/id1290049078?mt=8
+https://play.google.com/store/apps/details?id=com.car.transformer
+https://play.google.com/store/apps/details?id=com.maton.nuke
 https://www.countdownthegame.com/
 https://itunes.apple.com/us/app/countdown-the-game/id1291851995
 https://play.google.com/store/apps/details?id=com.the4thleaf.countdownthegame
@@ -24,7 +28,6 @@ https://play.google.com/store/apps/details?id=com.istargame.android.tccy
 
 MMORTS
 
-https://play.google.com/store/apps/details?id=com.innospark.dragonfriends
 https://play.google.com/store/apps/details?id=com.abc.AgeofKingdomsHD&hl=us
 https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publish
 
@@ -144,5 +147,3 @@ No Name URL
 13 WrongWay2 https://itunes.apple.com/gb/app/wrong-way-2/id890379453?mt=8
 14 GemDots https://itunes.apple.com/app/id982209467
 15 NoBrackes https://itunes.apple.com/us/app/no-brakes/id852250176?mt=8
-16 LingLing https://itunes.apple.com/us/app/ling-ling/id615973020?mt=8
-17 FruitNinja https://itunes.apple.com/en/app/fruit-ninja/id362949845?mt=8
