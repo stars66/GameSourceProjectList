@@ -30,6 +30,7 @@ https://itunes.apple.com/tw/app/%E5%A4%A9%E5%8A%8D%E7%90%B4%E7%B7%A3-%E7%B9%81%E
 MMORTS
 
 https://play.google.com/store/apps/details?id=com.abc.AgeofKingdomsHD&hl=us
+https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publish
 
 Poker game
 https://apkpure.com/card-king-dragon-wars/com.cardking.dw_iap
