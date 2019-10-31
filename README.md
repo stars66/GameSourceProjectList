@@ -7,8 +7,8 @@ skype : ska1227@163.com
 
 New games
 
-https://business.facebook.com/GameCoMobile
-https://www.otieya.com/
+http://gamecomobile.com
+https://www.otieya.com
 https://itunes.apple.com/US/app/id1290049078?mt=8
 https://itunes.apple.com/us/app/bird-crushing-adventure/id1240846440?mt=8
 https://play.google.com/store/apps/details?id=com.bird.crush
