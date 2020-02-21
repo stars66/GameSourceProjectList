@@ -11,7 +11,6 @@ http://gamecomobile.com
 https://www.otieya.com
 https://itunes.apple.com/US/app/id1290049078?mt=8
 https://itunes.apple.com/us/app/bird-crushing-adventure/id1240846440?mt=8
-https://play.google.com/store/apps/details?id=com.bird.crush
 https://play.google.com/store/apps/details?id=com.car.transformer
 https://play.google.com/store/apps/details?id=com.maton.nuke
 https://www.countdownthegame.com/
