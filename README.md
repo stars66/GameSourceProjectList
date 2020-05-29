@@ -34,7 +34,7 @@ https://play.google.com/store/apps/details?id=com.abc.AgeofKingdomsHD&hl=us
 https://play.google.com/store/apps/details?id=com.lyleestudio.ageofkingdom.publish
 
 Poker game
-https://apkpure.com/card-king-dragon-wars/com.cardking.dw_iap
+https://play.google.com/store/apps/details?id=com.cardking.dw_iap
 https://play.google.com/store/apps/details?id=com.trixonline.Trix
 https://itunes.apple.com/us/app/%D8%B7%D8%B1%D9%86%D9%8A%D8%A8/id902428862?mt=8
 
@@ -43,9 +43,6 @@ https://play.google.com/store/apps/details?id=com.maniaco.zombiewar360
 https://www.youtube.com/channel/UCFcwX19R-bBdo6fypiLD8fQ
 https://drive.google.com/open?id=0By4OWtCtmrenM2VHTTBZcndab1k
 https://drive.google.com/open?id=0By4OWtCtmrend21OZzZITkdXbnc
-
-https://play.google.com/store/apps/details?id=com.ketchapp.stack
-https://play.google.com/store/apps/details?id=com.h8games.helixjump
 
 http://parroxgame.com/
 https://play.google.com/store/apps/details?id=com.liuqimi.wordsearch
