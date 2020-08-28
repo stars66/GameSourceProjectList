@@ -1,13 +1,14 @@
 # GameSourceProjectList
-Hi All, I have a lot of game source projects.  Almost unity3d projects. If you are interested in these games, please contact me.
+Hi All, I'm a skilled unity developer. I have tons of unity game source projects. If you are interested in them, please contact me.
 
 E-mail: shiquhudong@gmail.com
 
-skype : ska1227@163.com
+skype : live:ska1227_1
 
 New games
 
 https://www.youtube.com/watch?v=GE3eSc4y_sQ
+https://drive.google.com/file/d/1kzGWt2lZirsxGrWRCZ_WmwuwZ-ycNo3k/view?usp=sharing
 http://gamecomobile.com
 https://www.otieya.com
 https://itunes.apple.com/US/app/id1290049078?mt=8
@@ -15,10 +16,7 @@ https://itunes.apple.com/us/app/bird-crushing-adventure/id1240846440?mt=8
 https://play.google.com/store/apps/details?id=com.car.transformer
 https://play.google.com/store/apps/details?id=com.maton.nuke
 https://www.countdownthegame.com/
-https://itunes.apple.com/us/app/countdown-the-game/id1291851995
-https://play.google.com/store/apps/details?id=com.the4thleaf.countdownthegame
 https://www.apkmonk.com/app/com.mirugame.ground
-https://play.google.com/store/apps/details?id=com.dev.starprize
 https://itunes.apple.com/us/app/wyandotte-escape-challenges/id1370269952
 https://play.google.com/store/apps/details?id=com.theescapechallenges.wyandotte
 
@@ -44,46 +42,24 @@ https://play.google.com/store/apps/details?id=com.maniaco.zombiewar360
 https://www.youtube.com/channel/UCFcwX19R-bBdo6fypiLD8fQ
 https://drive.google.com/open?id=0By4OWtCtmrenM2VHTTBZcndab1k
 https://drive.google.com/open?id=0By4OWtCtmrend21OZzZITkdXbnc
-
-http://parroxgame.com/
-https://play.google.com/store/apps/details?id=com.liuqimi.wordsearch
-https://play.google.com/store/apps/details?id=com.sglib.MemoryChallenge
 https://itunes.apple.com/us/app/fun-memory-test/id1252865333?mt=8
-
-https://play.google.com/store/apps/details?id=com.stomstudio.monsterrush&hl=en
 https://itunes.apple.com/us/app/face-monster-rush/id1234509563?mt=8
-https://play.google.com/store/apps/details?id=com.pooh.KrazyKris
 https://itunes.apple.com/us/app/krazy-kriss/id1224519085?ls=1&mt=8
-https://drive.google.com/open?id=0BwS77LJFDVDcMHNmajA3TE1uWkE
 
 https://play.google.com/store/apps/details?id=com.Fashion.Studio.Dress.Up
-https://play.google.com/store/apps/details?id=com.sapparray.waterflow
-https://play.google.com/store/apps/details?id=com.drj.sweetapp.berrymatch3&hl=en
 
 https://itunes.apple.com/us/app/fruitcards/id1252234875?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.bag.citytraffic.car.racing.driver
 https://itunes.apple.com/app/id1176415186
-https://www.dropbox.com/s/gse2qc7wdqfwo9d/TR_v.1.0_android.apk?dl=0
-https://play.google.com/store/apps/details?id=com.extremegames.crazy.traffic.racer
-https://play.google.com/store/apps/details?id=com.mts.crash.revenge&hl=en
-https://play.google.com/store/apps/details?id=com.Off.Road.Truck.Cargo.Game
-https://play.google.com/store/apps/details?id=com.arrowhitech.furiousroad
-https://drive.google.com/file/d/0B4C8QW7wEpG_TmZwTnJzVjBCWW8/view
 https://play.google.com/store/apps/details?id=train.vs.carbattlespeed
 
 https://drive.google.com/open?id=0By4OWtCtmrend3JPWjJOWVQ3T1U
-https://play.google.com/store/apps/details?id=com.trixonline.Trix
 https://itunes.apple.com/us/app/punching-buddy/id503965096?mt=8
 https://itunes.apple.com/my/app/elf-chase-rpg-endless-enemy-battle-run/id817026783?mt=8
-https://play.google.com/store/apps/details?id=com.foodcookingmania.letscook
 https://itunes.apple.com/ie/app/streaker-run/id519321043?mt=8
 https://drive.google.com/open?id=0By4OWtCtmrenLVVpcG9Ma3IyN2s
 
 Racing game
-https://play.google.com/store/apps/details?id=com.aistudio.realspeedasphalt
 https://play.google.com/store/apps/details?id=com.at.highway.stunt.bike.riders
-https://play.google.com/store/apps/details?id=com.ddk.Carracing
-https://www.youtube.com/watch?v=e0RWdiLMJRE
 https://app-interactive-studio-bike-racing.en.aptoide.com/
 https://www.apkmonk.com/app/com.aistudio.fastbikeracing/
 https://drive.google.com/open?id=0By4OWtCtmrenN1MzRWxpUGhsSkU
@@ -95,7 +71,6 @@ Online multiplayer strike games
 https://play.google.com/store/apps/details?id=com.gt.test&hl=en
 
 AR coloring app
-https://play.google.com/store/search?q=flamingotouch
 https://play.google.com/store/apps/details?id=com.flamingotouch.Chara
 https://play.google.com/store/apps/details?id=com.Twservices.App4DMais&hl=en
 
@@ -114,9 +89,4 @@ https://drive.google.com/open?id=0By4OWtCtmrenZFExNHozREtLQ1k
 Fighting game
 https://drive.google.com/open?id=0B0Zxxwu6NZ4mYVFmNmJEdWc1VXc
 
-1 BeerRightNow https://play.google.com/store/apps/details?id=com.beerrightnow.jon
-2 CRC Publication https://play.google.com/store/apps/details?id=cosmos.ebook
-3 Hasaedu https://play.google.com/store/apps/details?id=com.saudi.hasaedu
-4 IV-Tap https://play.google.com/store/apps/details?id=com.nurse.drug.medical
-5 LGUplusPrint https://play.google.com/store/apps/details?id=com.inity.lguplusprint
-6 My Unitel https://play.google.com/store/apps/details?id=com.myunitel.activities&hl=en
+Etc
