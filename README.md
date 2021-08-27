@@ -74,8 +74,7 @@ Online multiplayer strike games
 https://play.google.com/store/apps/details?id=com.gt.test&hl=en
 
 AR coloring app
-https://play.google.com/store/apps/details?id=com.flamingotouch.Chara
-https://play.google.com/store/apps/details?id=com.Twservices.App4DMais&hl=en
+https://play.google.com/store/apps/details?id=com.flamingotouch.myelephant
 
 Match 3 games
 https://drive.google.com/open?id=0By4OWtCtmrenLU9lVk42SzFNLXc
